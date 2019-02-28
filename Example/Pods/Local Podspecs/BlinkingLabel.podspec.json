@@ -1,8 +1,8 @@
 {
   "name": "BlinkingLabel",
   "version": "0.1.0",
-  "summary": "A short description of BlinkingLabel.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "BlinkingLabel project.",
+  "description": "A short description of BlinkingLabel.",
   "homepage": "https://github.com/thierygastaldi/BlinkingLabel",
   "license": {
     "type": "MIT",
@@ -18,5 +18,6 @@
   "platforms": {
     "ios": "8.0"
   },
+  "swift_version": "3.0",
   "source_files": "BlinkingLabel/Classes/**/*"
 }
